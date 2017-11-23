@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>tify</artifactId>
-    <version>0.19.3</version>
+    <version>0.19.4-SNAPSHOT</version>
     <name>tify</name>
     <description>WebJar for tify</description>
     <url>http://webjars.org</url>
@@ -49,7 +49,7 @@
         <url>http://github.com/webjars/tify</url>
         <connection>scm:git:https://github.com/webjars/tify.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/tify.git</developerConnection>
-        <tag>tify-0.19.3</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
